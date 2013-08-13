@@ -1,0 +1,5 @@
+[comodit]
+name=Comodit
+baseurl=http://dl.comodit.com/pub/centos/6/x86_64/
+gpgcheck=0
+enabled=1
